@@ -7,7 +7,7 @@
 
 The repository is organized as follows:
 
-- `data/`: Contains all the datasets used in this study.
+- `DATA/`: Contains all the datasets used in this study.
 - `scripts/`: Contains all the code used for data processing, analysis, and visualization.
 
 
