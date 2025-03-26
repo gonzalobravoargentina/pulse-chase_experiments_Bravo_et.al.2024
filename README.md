@@ -14,6 +14,6 @@ The repository is organized as follows:
 
 ## Contact
 
-For any questions or issues, please contact Gonzalo Bravo at [your email address].
+For any questions or issues, please contact Gonzalo Bravo at [gonzalobravoargentina@gmail.com].
 
  
